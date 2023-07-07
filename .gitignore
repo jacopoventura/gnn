@@ -2,3 +2,5 @@
 /__*
 /*.dat
 /ogbn*
+/.DS_Store
+/.ipynb_checkpoints/
